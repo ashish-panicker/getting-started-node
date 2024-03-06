@@ -13,12 +13,5 @@
     "javascript"
   ],
   "author": "ashish s panicker",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.3"
-  },
-  "devDependencies": {
-    "chai": "^5.1.0",
-    "mocha": "^10.3.0"
-  }
+  "license": "ISC"
 }
