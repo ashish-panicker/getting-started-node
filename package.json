@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-node",
+  "version": "1.0.0",
+  "description": "Getting started with NodeJS",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "node ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "ashish s panicker",
+  "license": "ISC"
+}
