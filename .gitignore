@@ -1,0 +1,4 @@
+# .gitignore is used to list out the files that does not need to be
+# pushed to git or tracked by git
+node_modules
+package-lock.json
